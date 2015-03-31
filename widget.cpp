@@ -12,7 +12,7 @@ Widget::Widget(QWidget *parent) :
     ui->setupUi(this);
 
     qr = NULL;
-    setString("amakuru yawe gakwa.");
+    setString("ALINE AND BOKO TEAM!");
 
 }
 
