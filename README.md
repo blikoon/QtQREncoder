@@ -12,9 +12,11 @@ This project is targeted at Qt 5 (I use 5.4) applications.
 It uses Qt widgets and there is no support for QML(at least yet)
 
 #Tested Environments
-Qt 5.3.1 (msvc2010_opengl)
-Qt 5.2.0 Mingw (mingw48_32)
-Android for armeabi-v7a (GCC 4.7, Qt 5.2.0)
+>Qt 5.3.1 (msvc2010_opengl)
+
+>Qt 5.2.0 Mingw (mingw48_32)
+
+>Android for armeabi-v7a (GCC 4.7, Qt 5.2.0)
 
 #To do
 Tests on Mac/ios/Linux are welcome .If you ever get this thing working on these platforms of face any problem doing so please let me know.
