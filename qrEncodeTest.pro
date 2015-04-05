@@ -41,6 +41,6 @@ HEADERS  += widget.h \
     qrencode/qrspec.h \
     qrencode/rscode.h \
     qrencode/split.h \
-    config.h
+
 
 FORMS    += widget.ui
