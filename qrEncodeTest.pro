@@ -43,8 +43,4 @@ HEADERS  += widget.h \
     qrencode/split.h \
     config.h
 
-message("Message")
-message($$PWD)
-message("Ends")
-
 FORMS    += widget.ui
