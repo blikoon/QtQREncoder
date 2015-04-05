@@ -8,7 +8,8 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = qrEncodeTest
+TARGET = QtQREncoder
+
 TEMPLATE = app
 
 #Msvc wasn't finding the "config.h" file in the project dir
