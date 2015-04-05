@@ -1,7 +1,9 @@
 # QtQREncoder
 uses the qrencoder c library to encode QStrings and show them on a QWidget
-libqrencode link : http://fukuchi.org/works/qrencode/
-development edition download link:https://github.com/fukuchi/libqrencode
+
+>libqrencode link : http://fukuchi.org/works/qrencode/
+
+>development edition download link:https://github.com/fukuchi/libqrencode
 
 #Purpose
 QtQREncoder uses qrencoder to show QStrings on Widgets.The project aims at providing an easy way to incorporate QR encoding capabilities to your Qt applications that mainly work on android / ios/ linux desktop /windows and Mac.
