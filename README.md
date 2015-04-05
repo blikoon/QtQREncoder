@@ -1,5 +1,5 @@
 # QtQREncoder
-uses the qrencoder c library to encode QStrings and show them on a QWidget
+uses the libqrencoder c library to encode QStrings and show them on a QWidget
 
 >libqrencode link : http://fukuchi.org/works/qrencode/
 
